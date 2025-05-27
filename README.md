@@ -137,7 +137,7 @@ By opening a PR to add your project, you authorize and license Coinbase on a non
 - App is not a TGE (Token Generation Event), ICO (Initial Coin Offering), airdrop, claim, or similar
 - Landing page is a Base-specific page for users who will be coming from base.org
 - Active development and community engagement can be observed without issue
-
+This is a test contribution for Talent Protocol BuilderScore
 ---
 
 If you have any questions, please reach out to us in #developer-chat in the [Base Discord](https://base.org/discord).
